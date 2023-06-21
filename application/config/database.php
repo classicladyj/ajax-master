@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'ajax_test',
+	'hostname' => 'db1-php.cudeehlpj0nq.eu-west-2.rds.amazonaws.com',
+	'username' => 'admin',
+	'password' => 'Ajax1php_db',
+	'database' => 'ajaxmaster_db',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
